@@ -28,3 +28,4 @@ plt.xlabel("House Size (sq.ft)")
 plt.ylabel("Price (lakhs)")
 plt.title("House Price Prediction using Linear Regression")
 plt.show()
+
