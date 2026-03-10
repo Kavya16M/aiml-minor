@@ -38,3 +38,4 @@ def print_board():
 
 queens(0)
 print_board()
+print("8_Queens")
